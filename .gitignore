@@ -1,0 +1,26 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# VSCode and Python cache
+.vscode/
+__pycache__/
+*.pyc
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs (optional)
+tex/*.pdf
+logic/*.pdf
+figures/*.svg
